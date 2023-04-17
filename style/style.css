@@ -74,36 +74,38 @@ a{
   color: whitesmoke;
   display: flex;
 }
-.fa {
-  border: 3px solid;
-  border-radius: 50px;
-  padding: auto;
-  font-size: 25px;
-  border-color: #ff4a56b7;
-}
 
 
 
 .home-section h1{
-padding-top: 50px;
+padding-top: 30px;
 font-size: 60px;
 font-family: poppins;
 font-weight: 700;
 
-
 }
 
-.fa-stack {
-  margin-top: 20px;
-  margin-right: 10px; 
-  
+.home-icon-btn-flex {
+  display: flex;
+  gap: 10px;
+  padding-top: 50px;
+  margin-top: 70px;
+}
+.home-icon-btn {
+  width: 50px;
+  height: 50px;
+  border: 2px solid;
+  border-color: #FF4A57;
+  border-radius: 50%;
+  background-color: #202235;
 }
 
-i{
-  color: whitesmoke;
-  margin-right: 30px;
-  
+.home-icon-btn i {
+  font-size: 20px;
+  padding: 13px;
 }
+
+
 .home-section{
   padding-top: 70px;
   padding-bottom: 0px;
@@ -130,17 +132,25 @@ i{
   border-radius: 50px;
   font-size: 14px;
   border-color: #FF4A57;
-  padding: 0 20px 0 20px;
+  padding: 1px 30px 1px 30px;
   font-family: poppins;
   font-size: 20px;
   }
+  .my-portfolio:hover {
+    background-color: #FF4A57;
+  }
 .portfolio {
-  margin-top: 10px;
+  margin-top: 7px;
   text-align: center;
+}
+
+.portfolio{
+  font-size: 16px;
+  font-weight: 500;
 }
   .btns {
     display: flex;
-    padding-top: 30px;
+    padding-top: 50px;
   }
 .youtube-btn {
   background-color: #FF4A57;
