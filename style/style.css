@@ -907,6 +907,7 @@ color: #FF4A57;
 
 .contactme-box-info {
   display: flex;
+  gap: 20px;
 }
 
 .contactme-box-info i {
@@ -1046,14 +1047,6 @@ footer{
   padding: 22px;
 }
 
-.rocket i{
-  float: right;
-  padding-right: 50px;
-  transform: rotate(-405deg);
-  font-size: 30px;
-  color: #FF4A57;
-  position: static;
-}
 .footer-d {
   align-items: center;
 }
