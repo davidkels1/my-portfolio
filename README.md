@@ -1,5 +1,5 @@
 INTRODUCTION
-This is a training project, I created it to learn HTML and CSS and to memorize the the skill.
+This is a training project, I created it to learn HTML and CSS and to memorize the skill.
 
 
 TECHNOLOGIES USED
